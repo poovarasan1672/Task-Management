@@ -1,0 +1,17 @@
+C:\dotnet\TaskManagementSystem.Data\bin\Debug\net9.0\TaskManagementSystem.Data.deps.json
+C:\dotnet\TaskManagementSystem.Data\bin\Debug\net9.0\TaskManagementSystem.Data.runtimeconfig.json
+C:\dotnet\TaskManagementSystem.Data\bin\Debug\net9.0\TaskManagementSystem.Data.dll
+C:\dotnet\TaskManagementSystem.Data\bin\Debug\net9.0\TaskManagementSystem.Data.pdb
+C:\dotnet\TaskManagementSystem.Data\bin\Debug\net9.0\TaskManagementSystem.Common.dll
+C:\dotnet\TaskManagementSystem.Data\bin\Debug\net9.0\TaskManagementSystem.Common.pdb
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskManagementSystem.Data.csproj.AssemblyReference.cache
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskManagementSystem.Data.AssemblyInfoInputs.cache
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskManagementSystem.Data.AssemblyInfo.cs
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskMana.C38438CF.Up2Date
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskManagementSystem.Data.dll
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\refint\TaskManagementSystem.Data.dll
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskManagementSystem.Data.pdb
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\TaskManagementSystem.Data.genruntimeconfig.cache
+C:\dotnet\TaskManagementSystem.Data\obj\Debug\net9.0\ref\TaskManagementSystem.Data.dll
