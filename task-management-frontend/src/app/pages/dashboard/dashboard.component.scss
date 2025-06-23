@@ -1,0 +1,33 @@
+.dashboard-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+.stat-card {
+  flex: 1 1 200px;
+  text-align: center;
+  height: 150px;
+
+  h3 {
+    margin: 5px;
+    margin-top: 40px;
+    font-size: 1.5em;
+  }
+
+  p {
+    font-size: 2rem;
+    margin: 10px 0 0;
+  }
+}
+
+.total {
+  background:#a4abb1;
+}
+.completed {
+  background: #7d9b84;
+}
+.overdue {
+  background: #938184;
+}
