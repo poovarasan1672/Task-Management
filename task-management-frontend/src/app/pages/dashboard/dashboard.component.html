@@ -1,16 +1,15 @@
-<div class="dashboard-container">
-  <mat-card class="stat-card total">
-    <h3>Total Tasks</h3>
-    <p>{{ totalTasks }}</p>
-  </mat-card>
-
-  <mat-card class="stat-card completed">
-    <h3>Completed</h3>
-    <p>{{ completedTasks }}</p>
-  </mat-card>
-
-  <mat-card class="stat-card overdue">
-    <h3>Overdue</h3>
-    <p>{{ overdueTasks }}</p>
-  </mat-card>
+<div
+  class="dashboard-container"
+  cdkDropList
+  (cdkDropListDropped)="drop($event)"
+>
+  <div
+    *ngFor="let card of cards"
+    cdkDrag
+    (click)="navigateToTasks(card.filter)"
+    [ngClass]="['stat-card', card.class]"
+  >
+    <h3>{{ card.title }}</h3>
+    <p>{{ card.count }}</p>
+  </div>
 </div>

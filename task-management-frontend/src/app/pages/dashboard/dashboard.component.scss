@@ -9,6 +9,8 @@
   flex: 1 1 200px;
   text-align: center;
   height: 150px;
+  cursor: move;
+  border-radius: 20px;;
 
   h3 {
     margin: 5px;
@@ -23,11 +25,14 @@
 }
 
 .total {
-  background:#a4abb1;
+  background: #a4abb1;
 }
 .completed {
   background: #7d9b84;
 }
 .overdue {
-  background: #938184;
+  background: #ed052ca6;
+}
+.pending {
+  background: #df62626b;
 }

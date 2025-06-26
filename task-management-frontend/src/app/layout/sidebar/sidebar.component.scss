@@ -1,12 +1,11 @@
   mat-nav-list {
       width: 250px;
-      background: #dfdcdc;
+      background: #a1a3a287;
       padding-top: 20px;
       height: 100vh;
     }
     ::ng-deep{
       .mdc-list-item__primary-text{
         font-size: 1em !important;
-        font-family: ui-serif !important;
       }
     }

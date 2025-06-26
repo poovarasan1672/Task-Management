@@ -1,7 +1,13 @@
-<mat-toolbar style="background-color:#9f9494; font-size: 2em; font-weight: 500;">Task Management System</mat-toolbar>
-<div class="app-container">
-  <app-sidebar></app-sidebar>
-  <div class="main-content">
-    <router-outlet></router-outlet>
+<div class="container">
+  <mat-toolbar style="background-color:#919197d1; font-size: 2em; font-weight: 500;" class="toolbar">
+    <span>Task Management System</span>
+    <mat-icon style="font-size: 40px; height: 40px; width: 40px;"> local_library</mat-icon>
+  </mat-toolbar>
+
+  <div class="app-container">
+    <app-sidebar></app-sidebar>
+    <div class="main-content">
+      <router-outlet></router-outlet>
+    </div>
   </div>
 </div>
